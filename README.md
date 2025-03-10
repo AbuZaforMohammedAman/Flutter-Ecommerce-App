@@ -1,5 +1,3 @@
-# e_comm
-https://www.youtube.com/watch?v=JxIMGubgY_4
 
 #1. Folder Structure
 
@@ -47,6 +45,3 @@ https://github.com/Warisalikhan786/EasyShopping/blob/main/lib/screens/auth-ui/si
 
 8# Flutter fire cli project configuration
 
-https://console.firebase.google.com/u/0/project/easyshopping-d73a6/overview
-
-https://firebase.google.com/docs/cli?hl=en&authuser=0&_gl=1*1uffx63*_ga*MTk1Mjk0ODIyOS4xNzM5NzExMDU2*_ga_CW55HF8NVT*MTc0MTU5OTI4MC42LjEuMTc0MTU5OTY1OS42MC4wLjA.#install_the_firebase_cli
