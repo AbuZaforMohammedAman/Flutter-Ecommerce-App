@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444604650284",
+    "project_id": "easyshopping-d73a6",
+    "storage_bucket": "easyshopping-d73a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444604650284:android:00bf2b7c30236bef849289",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGpIY_rDtchHzxy_ipPv-Kd4BdOn4mk_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
