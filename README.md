@@ -41,7 +41,6 @@ auth-ui -> splash_sceen.dart, welcome_screen.dart, sign_in_screen.dart, sign_up_
 
 making the Sign Up & Sign In screen
 
-https://github.com/Warisalikhan786/EasyShopping/blob/main/lib/screens/auth-ui/sign-in-screen.dart
 
 8# Flutter fire cli project configuration
 
